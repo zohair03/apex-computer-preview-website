@@ -4,7 +4,7 @@ import { ContactHeroContent, ContactFaqContent } from "@/cms/content/content";
 import Faqs from "@/components/sections/faqSection";
 
 export const metadata = {
-    title: "Contact Us | Pickens PC Repair",
+    title: "Contact Us | Apex! Computer",
     description: "Computer reparing shop and refurbhish laptop selling",
 };
 

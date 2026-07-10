@@ -5,7 +5,7 @@ import { Abouthero, AboutSection1, AboutSection2 } from "@/cms/content/content";
 
 
 export const metadata = {
-    title: "About Us | Pickens PC Repair",
+    title: "About Us | Apex! Computer",
     description: "Computer reparing shop and refurbhish laptop selling",
 };
 

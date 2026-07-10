@@ -4,7 +4,7 @@ import { ServicesHeroContent, ServicesPageCardsContent } from "@/cms/content/con
 import Services from "@/components/sections/servicesSection";
 
 export const metadata = {
-    title: "Services | Pickens PC Repair",
+    title: "Services | Apex! Computer",
     description: "Computer reparing shop and refurbhish laptop selling",
 };
 

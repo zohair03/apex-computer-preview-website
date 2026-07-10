@@ -5,7 +5,7 @@ import { PrivacyPolicyheroContent } from "@/cms/content/content";
 
 
 export const metadata = {
-    title: "Privacy Policy | Pickens PC Repair",
+    title: "Privacy Policy | Apex! Computer",
     description: "Privacy Policy | Pickens PC Repair",
 };
 
