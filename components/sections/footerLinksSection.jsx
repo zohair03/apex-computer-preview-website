@@ -108,8 +108,8 @@ const FooterLinks = () => {
                   className="object-cover rounded-lg"
                 />
               ) : (
-                <p className="text-3xl font-bold leading-none text-center tracking-widest text-white uppercase">
-                  Apex!
+                <p className="text-xl font-serif text-center tracking-widest text-primary uppercase">
+                  Apex! Computer
                 </p>
               )}
             </Link>

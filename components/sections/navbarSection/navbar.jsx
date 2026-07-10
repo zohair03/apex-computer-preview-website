@@ -117,7 +117,7 @@ const Navbar = () => {
                 width={80}
                 height={80}
                 className="object-cover rounded-lg"
-              />) : (<p className="text-2xl font-bold leading-none text-center tracking-widest text-white tracking-widest uppercase">Pickens<br />PC Repair</p>)}
+              />) : (<p className="text-lg font-serif  text-center tracking-widest text-primary tracking-widest uppercase">Apex! Computer</p>)}
             </Link>
 
             {/* Desktop Nav Links */}
@@ -139,7 +139,7 @@ const Navbar = () => {
                 width={80}
                 height={80}
                 className="object-cover rounded-lg"
-              />) : (<p className="text-xl font-bold leading-none text-center tracking-widest text-white tracking-widest uppercase">Pickens<br />PC Repair</p>)}
+              />) : (<p className="text-sm font-serif text-center tracking-widest text-primary tracking-widest uppercase">Apex! Computer</p>)}
             </Link>
 
             {/* Mobile Buttons (Side by Side) */}
