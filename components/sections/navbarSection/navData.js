@@ -1,60 +1,60 @@
 export const aboutLinks = [
   {
     title: "FQAs",
-    description: "Got questions about laptop and computer repairs in Homewood? Call us today!",
+    description: "Got questions about laptop and computer repairs in Norcross? Call us today!",
     image: "/images/faqs.webp",
-    href: "/faqs",
+    href: "/",
   },
   {
     title: "Service Area",
-    description: "Serving Customers All Across Homewood and Surrounding Areas.",
+    description: "Serving Customers All Across Norcross and Surrounding Areas.",
     image: "/images/image5.webp",
-    href: "/service-area",
+    href: "/",
   },
   {
     title: "Gallery",
     description: "Explore Our Repair Gallery: Before & After Transformations",
     image: "/images/rn-infotech-70.webp",
-    href: "/gallery",
+    href: "/",
   },
 ];
 
 export const servicesLinks = [
   {
-    title: "PC & Mac Repairs",
-    description: "Fast and reliable PC and Mac repairs for all brands and models.",
+    title: "Computer & Mac Repairs",
+    description: "Comprehensive diagnostic and repair services for laptops, desktops, and Apple computers. We handle hardware fixes and software troubleshooting.",
     image: "/images/rn-infotech-57.webp",
-    href: "/services/pc-and-mac-repairs",
+    href: "/",
   },
   {
-    title: "On-Site & In-Home Support",
-    description: "Tech support that comes to you! Convenient on-site and in-home computer help across the Homewood area.",
-    image: "/images/rn-infotech-30.webp",
-    href: "/services/onsite-and-home-support",
+    title: "Gaming Console Repair",
+    description: "Expert repairs for PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U. Get back to gaming quickly with our reliable console fixes.",
+    image: "/images/image-18.webp",
+    href: "/",
   },
   {
-    title: "Virus & Malware Removal",
-    description: "From spyware and ransomware to unwanted adware, we quickly identify and eliminate all types of malicious software.",
-    image: "/images/image10.webp",
-    href: "/services/virus-and-malware-removal",
+    title: "New & Used Computers",
+    description: "Looking to buy? We offer a great selection of high-quality new and used computers, notebooks, and gaming PCs to fit your needs.",
+    image: "/images/rn-infotech-38.webp",
+    href: "/",
   },
   {
-    title: "Data Backup & Recovery",
-    description: "Safely retrieve your lost files, photos, and critical business data from failed hard drives, accidental deletions, and system crashes.",
-    image: "/images/image7.webp",
-    href: "/services/data-backup-and-recovery",
-  },
-  {
-    title: "Computer Networking",
+    title: "Networking Services",
     description: "Reliable setup and optimization of Wi-Fi, routers, modems, and secure remote connections for homes and offices.",
     image: "/images/image6.webp",
-    href: "/services/computer-networking",
+    href: "/",
   },
   {
-    title: "System Tune-Ups & Upgrades",
+    title: "Server & IT Support",
+    description: "Reliable setup and optimization of Wi-Fi, routers, modems, and secure remote connections for homes and offices.",
+    image: "/images/image-19.jpg",
+    href: "/",
+  },
+  {
+    title: "Recycle & Disposal",
     description: "Restore speed and performance to slow computers with thorough diagnostics, clean installs, and hardware enhancements like SSD and RAM upgrades.",
-    image: "/images/rn-infotech-38.webp",
-    href: "/services/system-tune-ups-and-upgrades",
+    image: "/images/image-20.avif",
+    href: "/",
   },
 ];
 

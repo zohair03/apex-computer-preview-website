@@ -378,79 +378,77 @@
   --font-serif: var(--font-boldonse);
   --font-bitcount: var(--font-bitcount-single);
 
-  --color-primary: #002D62;
-  --color-secondary: #70C9F9;
+  --color-primary: #FD0606;
+  --color-secondary: #6BCBFF;
 
   --color-color-herotext: #FFFFFF;
-  --color-color-headings: #0A192F;
-  --color-color-h3: #1E3A8A;
-  --color-color-bodytext: #111111;
+  --color-color-headings: #111827;
+  --color-color-h3: #990000;
+  --color-color-bodytext: #1F2937;
   --color-color-default: #111111;
 
-  --color-primary-btn: #002D62;
-  --color-primary-btn-hover: #001F44;
+  --color-primary-btn: #FD0606;
+  --color-primary-btn-hover: #C30000;
   --color-primary-btn-text: #FFFFFF;
   --color-primary-btn-text-hover: #FFFFFF;
   --color-primary-btn-icon: brightness(0) invert(1);
   --color-primary-btn-icon-hover: brightness(0) invert(1);
 
-  --color-secondary-btn: #002D62;
-  --color-secondary-btn-hover: #001F44;
+  --color-secondary-btn: #FD0606;
+  --color-secondary-btn-hover: #C30000;
   --color-secondary-btn-text: #ffffff;
   --color-secondary-btn-text-hover: #ffffff;
-  --color-secondary-btn-br1-color: #BBE5FC;
+  --color-secondary-btn-br1-color: #C2EAFF;
   --color-secondary-btn-br2-color: #FFFFFF;
 
   --color-marquee-text: #FFFFFF;
-  --color-marquee-text-shadow-1: #70C9F9;
-  --color-marquee-text-shadow-2: #002D62;
-  --color-marquee-text-shadow-3: #0A192F;
-  --color-marquee-bg: #000000;
+  --color-marquee-text-shadow-1: #6BCBFF;
+  --color-marquee-text-shadow-2: #FD0606;
+  --color-marquee-text-shadow-3: #111827;
+  --color-marquee-bg: #0B0F19;
 
   --color-label-text: var(--color-primary);
 
   --color-topbar-bg: var(--color-footer-form-bg);
-  --color-topbar-text: #ffffff;
-  --color-topbar-text-hover: #70C9F9;
+  --color-topbar-text: #FFFFFF;
+  --color-topbar-text-hover: #6BCBFF;
   --color-topbar-icon: brightness(0) invert(1);
-  --color-topbar-icon-hover: brightness(0) saturate(100%) invert(68%) sepia(83%) saturate(1749%) hue-rotate(180deg) brightness(109%) contrast(103%);
-  --color-topbar-menuicon: #ffffff;
+  /* CSS Filter precisely calibrated for #6BCBFF */
+  --color-topbar-icon-hover: brightness(0) saturate(100%) invert(84%) sepia(45%) saturate(1966%) hue-rotate(184deg) brightness(101%) contrast(101%);
+  --color-topbar-menuicon: #FFFFFF;
 
   --color-navbar-link: #FFFFFF;
-  --color-navbar-link-hover: #70C9F9;
+  --color-navbar-link-hover: #6BCBFF;
 
   --color-iridescent-border: var(--color-primary);
-  --color-iridescent-border-shade-1: #70C9F9;
+  --color-iridescent-border-shade-1: #6BCBFF;
   --color-iridescent-border-shade-2: #E0F4FE;
-  --color-iridescent-border-dark-shade: #001F44;
+  --color-iridescent-border-dark-shade: #C30000;
 
-  /* Formulated to generate #002D62 precisely from a black icon asset */
-  --color-icon-primary: brightness(0) saturate(100%) invert(13%) sepia(35%) saturate(5441%) hue-rotate(204deg) brightness(92%) contrast(103%);
-  --color-why-card-icon-bg: #0A192F;
+  /* CSS Filter precisely calibrated for primary red #FD0606 */
+  --color-icon-primary: brightness(0) saturate(100%) invert(13%) sepia(95%) saturate(7181%) hue-rotate(359deg) brightness(97%) contrast(106%);
+  --color-why-card-icon-bg: #111827;
   --color-why-card-icon: brightness(0) invert(1);
 
   --color-plus-icon: #FFFFFF;
   --color-plus-bg: var(--color-primary);
 
-  --color-footer-form-bg: #030F26;
+  --color-footer-form-bg: #0A0F1D;
   --color-footer-form-text: #FFFFFF;
-  --color-footer-form-text-hover: #70C9F9;
-  --color-footer-form-floating-orb: rgba(112, 201, 249, 0.12);
+  --color-footer-form-text-hover: #6BCBFF;
+  --color-footer-form-floating-orb: rgba(107, 203, 255, 0.12);
   --color-footer-form-icon: brightness(0) invert(1);
-  --color-footer-form-placeholder-border: #475569;
+  --color-footer-form-placeholder-border: #374151;
 
-  --color-footer-bg: #010712;
-  --color-footer-text: #E2E8F0;
+  --color-footer-bg: #050810;
+  --color-footer-text: #9CA3AF;
 
-  --color-section-bg: #ECF6FE;
-  --color-section-bg-service: linear-gradient(to bottom, #FFFFFF, #E0F2FE);
-  --color-section-bg-aboutus: linear-gradient(to bottom, #E0F2FE, #FFFFFF);
-  --color-section-bg-testimonials: linear-gradient(to bottom, #F0F9FF, #E0F2FE);
-  --color-section-bg-whychooseus: linear-gradient(to bottom, #FFFFFF, #F0F9FF);
-  --color-section-bg-faqs: linear-gradient(to bottom, #E0F2FE, #FFFFFF);
-
-
-
+  --color-section-bg: #FAFAFA;
+  --color-section-bg-service: linear-gradient(to bottom, #FFFFFF, #aae1ff);
+  --color-section-bg-aboutus: linear-gradient(to bottom, #aae1ff, #FFFFFF);
+  --color-section-bg-testimonials: linear-gradient(to bottom, #FFF5F5, #aae1ff);
+  --color-section-bg-whychooseus: linear-gradient(to bottom, #FFFFFF, #FFF5F5);
+  --color-section-bg-faqs: linear-gradient(to bottom, #aae1ff, #FFFFFF);
 
 
 

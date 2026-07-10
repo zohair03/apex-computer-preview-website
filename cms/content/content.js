@@ -1,89 +1,89 @@
 export const hero = {
-    heading: "Premier Computer Repair & IT Support Services",
-    subtitle: "Pickens PC Repair LLC stands out as your local trusted partner for expert hardware repairs, software troubleshooting, data recovery, and comprehensive IT services.",
+    heading: "Expert Computer & Game Console Repair",
+    subtitle: "Apex Computer Inc is your trusted partner in Norcross, GA for fast, reliable repairs of PCs, Macs, and all major gaming consoles.",
     btn1Text: "View Services",
-    href1: "/services",
+    href1: "/",
     btn2Text: "Schedule Now",
     href2: "/contact",
     bgImage: "bg-[url('/images/image3.webp')]",
 }
 
 export const MarqueeText = [
-    "Fast, reliable, and local IT services!",
-    "Call us at +1 205-774-8415 for support",
-    "Expert diagnostics and transparent pricing!",
-    "Visit us at 244 Goodwin Crest Dr, Homewood, AL",
-    "Your trusted community computer repair experts!",
+    "Fast, reliable, and local repair services!",
+    "Call us at +1 770-242-8877 for support",
+    "Expert diagnostics for computers and consoles!",
+    "Visit us at 4100 Steve Reynolds Blvd, Norcross, GA",
+    "Your trusted community repair experts!",
 ]
 
 export const ServicesContent = {
     label: "Our Services",
-    heading: "Fast, Reliable, & Local IT Solutions",
-    subtitle: "Whether you’re bringing your device to us, need a technician at your door, or want to secure your property with the latest surveillance—we’ve got you covered.",
+    heading: "Comprehensive Repair & IT Solutions",
+    subtitle: "From laptops and servers to gaming consoles, we provide professional repair, networking, and recycling services.",
     cards: [
         {
             id: "01",
-            title: "PC & Mac Repairs",
+            title: "Computer & Mac Repairs",
             description:
-                "Comprehensive diagnostic and repair services for laptops, desktops, and all-in-one systems. We handle screen replacements, battery issues, and hardware fixes.",
+                "Comprehensive diagnostic and repair services for laptops, desktops, and Apple computers. We handle hardware fixes and software troubleshooting.",
             image: "/images/rn-infotech-57.webp",
             btnText: "Computer Repairs",
-            href: "/services/pc-and-mac-repairs",
+            href: "/",
         },
         {
             id: "02",
-            title: "On-Site & In-Home Support",
+            title: "Gaming Console Repair",
             description:
-                "Our technicians will come directly to your home or office for troubleshooting, computer setup, networking, or device installations at affordable rates.",
-            image: "/images/rn-infotech-30.webp",
-            btnText: "On-Site Support",
-            href: "/services/onsite-and-home-support",
+                "Expert repairs for PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U. Get back to gaming quickly with our reliable console fixes.",
+            image: "/images/image-18.webp",
+            btnText: "Console Repair",
+            href: "/",
         },
         {
             id: "03",
-            title: "Virus & Malware Removal",
+            title: "New & Used Computers",
             description:
-                "Thorough spyware, ransomware, and virus scanning and removal. We help clean infected operating systems and install preventative protection tools.",
-            image: "/images/image10.webp",
-            btnText: "Virus Removal",
-            href: "/services/virus-and-malware-removal",
+                "Looking to buy? We offer a great selection of high-quality new and used computers, notebooks, and gaming PCs to fit your needs.",
+            image: "/images/rn-infotech-38.webp",
+            btnText: "Shop Computers",
+            href: "/",
         },
         {
             id: "04",
-            title: "Data Backup & Recovery",
+            title: "Networking Services",
             description:
-                "Safe retrieval of your documents, photos, and crucial business data from failed hard drives. We also configure secure local and cloud backup systems.",
-            image: "/images/image7.webp",
-            btnText: "Data Services",
-            href: "/services/data-backup-and-recovery",
+                "Reliable setup and troubleshooting for home and business networks, including routers, servers, and secure connections.",
+            image: "/images/image6.webp",
+            btnText: "Networking",
+            href: "/",
         },
         {
             id: "05",
-            title: "Computer Networking",
+            title: "Server & IT Support",
             description:
-                "Reliable setup and troubleshooting of home office or business Wi-Fi, routers, modems, switches, and secure remote VPN connections.",
-            image: "/images/image6.webp",
-            btnText: "Networking Support",
-            href: "/services/computer-networking",
+                "Professional server maintenance and IT support tailored for small businesses and home offices in the Norcross area.",
+            image: "/images/image-19.jpg",
+            btnText: "IT Support",
+            href: "//server-support",
         },
         {
             id: "06",
-            title: "System Tune-Ups & Upgrades",
+            title: "Recycle & Disposal",
             description:
-                "Speed up slow machines with SSD installations, RAM additions, OS reinstalls, and regular dust and thermal compound maintenance.",
-            image: "/images/rn-infotech-38.webp",
-            btnText: "Tune-Ups & Upgrades",
-            href: "/services/system-tune-ups-and-upgrades",
+                "Eco-friendly recycling and disposal services for your old electronics, computers, and obsolete networking equipment.",
+            image: "/images/image-20.avif",
+            btnText: "Recycling Services",
+            href: "/",
         },
     ],
     cta: "View All Services",
-    href: "/services",
+    href: "/",
 }
 
 export const AboutUsContent = {
     label: "Who We Are",
-    heading: "About Pickens PC Repair LLC",
-    description: "Pickens PC Repair LLC is a computer support company that specializes in PC repair & Mac repair services. We also specialize in computer networking, data back-up and recovery, virus removal, and other installation services. Many computer repair service companies in nearby towns offer technology services, but as a local computer consulting company, Pickens PC Repair LLC will tailor a solution for your in-home computer repair needs or computer networking support in your office. As a local business, we understand that you want a reliable technology support company that provides quality work at affordable prices. To keep computer repair costs down, we recommend PC maintenance and tune ups to help with virus and spyware prevention. If you suspect you may already have a problem, we can start with a cost-effective computer solution. As a computer owner, you already know that sometimes operating systems just need to be replaced. If that's the case, we'll help you find the best machine.",
+    heading: "About Apex Computer Inc",
+    description: "Apex Computer Inc operates in the Repair Services industry, proudly serving the Norcross, GA community. We specialize in repairing all kinds of computers and laptops, including Apple products. Beyond computers, our expertise extends to gaming consoles—we expertly repair PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U systems. Whether you need a new computer, a used notebook, a custom gaming PC, or server and networking services, our team is equipped to provide top-notch solutions. We also offer responsible recycle and disposal services for your old electronics.",
     btnText: "Contact Us",
     href: "/contact",
     image1: "/images/rn-infotech-31.webp",
@@ -92,28 +92,28 @@ export const AboutUsContent = {
 
 export const WhyChooseUsContent = {
     label: "Why Us",
-    heading: "Why Tech Professionals Choose Pickens PC Repair",
+    heading: "Why Choose Apex Computer Inc",
     btnText: "Schedule a Repair",
     href: "/contact",
     cards: [
         {
             id: 1,
             icon: "/icons/workspace_premiu.svg",
-            text: "Technical Expertise: Dedicated team of knowledgeable professionals recognized for quick response times and effective diagnostics.",
+            text: "Broad Expertise: From Macs and PCs to PlayStation and Xbox consoles, our technicians can fix almost any device.",
             linkText: "About Us",
             href: "/about",
         },
         {
             id: 2,
             icon: "/icons/shield_with_heart.svg",
-            text: "Transparency & Fair Pricing: Technicians take time to explain issues in simple terms, maintaining honest and fair pricing throughout.",
-            linkText: "Testimonials",
-            href: "https://www.google.com/maps/place/Pickens+PC+Repair+LLC/@33.4723842,-86.8352621,808m/data=!3m2!1e3!5s0x88891eba116cdd3b:0xc370ad7c906701c0!4m8!3m7!1s0x8889235abe10577b:0x2f4bef4ab1043af5!8m2!3d33.4720083!4d-86.8328481!9m1!1b1!16s%2Fg%2F11fm5qc5xb?hl=en&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+            text: "Local & Reliable: Located conveniently in Norcross, GA, we provide honest diagnostics and fair pricing to our community.",
+            linkText: "Find Us",
+            href: "https://www.google.com/maps/place/Apex!+Computer+Inc./data=!4m2!3m1!1s0x0:0xc7c8f3344a91991d?sa=X&ved=1t:2428&ictx=111",
         },
         {
             id: 3,
             icon: "/icons/sentiment_very_satisfied.svg",
-            text: "Customer-Centric Approach: We go above and beyond, providing customer education and handling urgent hardware and software needs.",
+            text: "Complete IT Solutions: Offering everything from networking services to new and used computer sales and responsible recycling.",
             linkText: "Contact Now",
             href: "/contact",
         },
@@ -123,45 +123,45 @@ export const WhyChooseUsContent = {
 export const TestimonialsContent = {
     label: "Testimonials",
     heading: "What Our Customers Say",
-    subtitle: "Trusted by local clients in Homewood, Alabama and surrounding areas",
+    subtitle: "Trusted by clients throughout Norcross, Georgia and surrounding areas",
     btnText: "View Services",
-    href: "/services",
+    href: "/",
     cards: [
         {
             id: 1,
-            name: "Sarah Jenkins, Homewood",
+            name: "John Miller, Norcross",
             review:
-                '"Pickens PC Repair is a lifesaver! They replaced my laptop screen in no time and explained everything so clearly. Excellent customer service and fair pricing!"',
+                '\"Apex Computer brought my dead MacBook back to life when others said it was impossible. Fast service and very reasonable prices!\"',
         },
         {
             id: 2,
-            name: "David Miller, Mountain Brook",
+            name: "Sarah Jenkins, Duluth",
             review:
-                '"I needed an urgent data recovery for my business laptop, and their team got it done overnight. Highly professional and very reassuring throughout the process."',
+                '\"I thought my son\'s PS4 was ruined, but they fixed the HDMI port issue in just a couple of days. Highly recommend for console repairs.\"',
         },
         {
             id: 3,
-            name: "Linda Thompson, Vestavia Hills",
+            name: "Mark Thompson, Peachtree Corners",
             review:
-                '"The on-site tech who set up our home office network and resolved our Wi-Fi issues was fantastic. Arrived right on time, extremely polite, and the pricing was very reasonable!"',
+                '\"Bought a used gaming PC from them and it runs like a dream. Their staff is extremely knowledgeable and helped me pick the right parts.\"',
         },
         {
             id: 4,
-            name: "James Carter, Birmingham",
+            name: "Emily Davis, Atlanta",
             review:
-                '"I love that they take the time to educate you on the problem rather than just handing you a bill. Best place in Alabama for honest and reliable computer repair."',
+                '\"Set up our office server and network flawlessly. The technicians at Apex are professional, prompt, and easy to work with.\"',
         },
         {
             id: 5,
-            name: "Emily Rodriguez, Hoover",
+            name: "Robert Wilson, Suwanee",
             review:
-                '"Had a major virus issue that locked me out of my desktop. The technicians at Pickens PC Repair diagnosed and cleaned it up quickly. Highly recommend their services!"',
+                '\"Great place to safely recycle old computers and monitors. It\'s nice to have a local business that handles e-waste responsibly.\"',
         },
         {
             id: 6,
-            name: "Robert Chen, Homewood",
+            name: "Jessica Martinez, Norcross",
             review:
-                '"Their PC maintenance and tune-ups are top tier. They\'ve handled all my hardware upgrades and software troubleshooting with absolute professionalism and quick turnarounds."',
+                '\"Honest people. They diagnosed my laptop issue for free and explained exactly what needed to be done without any upselling.\"',
         }
     ]
 }
@@ -173,26 +173,26 @@ export const FaqsContent = {
     questions: [
         {
             id: 1,
-            question: "What services do you offer for on-site support?",
+            question: "What types of game consoles do you repair?",
             answer:
-                "We come directly to your home or office for computer repair, network setup, troubleshooting, or hardware installation in Homewood, AL and surrounding areas.",
+                "We repair a wide variety of consoles including PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U.",
         },
         {
             id: 2,
-            question: "Do you repair both PCs and Macs?",
+            question: "Do you repair Apple computers?",
             answer:
-                "Yes! Pickens PC Repair LLC specializes in both PC repair & Mac repair services, ensuring your device gets expert care regardless of the platform.",
+                "Yes! We offer comprehensive repair services for all kinds of Apple computers and Mac laptops.",
         },
         {
             id: 3,
-            question: "How do you help keep computer repair costs down?",
+            question: "Do you sell computers as well as repair them?",
             answer:
-                "We recommend regular PC maintenance and tune-ups to prevent virus and spyware infections. If you already have a problem, we start with cost-effective diagnostic and repair solutions.",
+                "Absolutely. We sell new and used computers, notebooks, servers, and custom gaming PCs.",
         },
         {
             id: 4,
-            question: "Can you help with operating system replacement or selecting a new computer?",
-            answer: "Absolutely. If your operating system needs replacement or your machine is too old, we can install a clean OS or help you select and set up the best new machine for your needs.",
+            question: "Can I bring in old electronics for recycling?",
+            answer: "Yes, we offer recycle and disposal services to safely process your old computers and networking equipment.",
         },
     ],
     btnText: "Still Have Questions? Contact us",
@@ -201,8 +201,8 @@ export const FaqsContent = {
 
 export const FinalCtaContent = {
     label: "Get In Touch",
-    heading: "Need Reliable IT Support or Repairs?",
-    subtitle: "Contact Pickens PC Repair LLC today for fast, local, and expert service you can count on.",
+    heading: "Need Reliable Repairs or IT Support?",
+    subtitle: "Contact Apex Computer Inc today for expert service on your computers and game consoles.",
     btn1Text: "Schedule Now",
     href1: "",
     btn2Text: "Find Our Location",
@@ -212,10 +212,10 @@ export const FinalCtaContent = {
 
 // About Page Content:
 export const Abouthero = {
-    heading: "About Pickens PC Repair LLC",
-    subtitle: "Your trusted local partner for expert computer repairs, on-site IT support, data recovery, and networking solutions in Homewood and Birmingham, AL.",
+    heading: "About Apex Computer Inc",
+    subtitle: "Your trusted local partner in Norcross for computer repairs, console fixes, and networking solutions.",
     btn1Text: "View Services",
-    href1: "/services",
+    href1: "/",
     btn2Text: "Contact Us",
     href2: "/contact",
     bgImage: "bg-[url('/images/image3.webp')]",
@@ -224,28 +224,28 @@ export const Abouthero = {
 
 export const AboutSection1 = {
     label: "Our Story",
-    heading: "Trusted Local IT & Repair Specialists",
-    description: "At Pickens PC Repair LLC, we are dedicated to providing the highest quality computer repair and IT consulting services in Homewood, Alabama, and surrounding communities. As a locally owned and operated business, we know how essential technology is to your daily life and business operations. That is why our skilled technicians focus on delivering prompt diagnostics, transparent solutions, and reliable repairs for both PC and Mac platforms. We pride ourselves on clear communication, ensuring you understand the issues and options before any work begins.",
+    heading: "Dedicated Repair Specialists",
+    description: "Located in Norcross, GA, Apex Computer Inc operates in the Repair Services industry with a commitment to quality and customer satisfaction. We know how important your devices are to your work and entertainment. That's why our skilled team repairs everything from Windows PCs and Apple Macs to a full range of gaming consoles like the PS4 and Xbox One. We pride ourselves on being a one-stop shop for all your technical needs.",
     cta: "Contact Us",
     href: "/contact",
-    image: "/images/image3.webp",
+    image: "/images/rn-infotech-53.webp",
 }
 
 export const AboutSection2 = {
     label: "Our Mission",
-    heading: "Honest Solutions, Fair Pricing",
-    description: "We believe that premium IT services shouldn't come with a premium price tag. Pickens PC Repair LLC was built on the values of integrity, transparency, and outstanding customer service. From virus removal and data recovery to setting up complex home and business networks, we treat every device as if it were our own. We also emphasize preventative care, offering computer maintenance and speed optimizations to extend the lifespan of your systems and save you money in the long run.",
+    heading: "Complete Tech Solutions",
+    description: "Our mission is to provide comprehensive, affordable, and high-quality IT services to our community. Beyond repairs, we offer new and used computers, servers, and networking setups to help your home or business run smoothly. We also care about our environment, offering safe recycling and disposal for outdated technology. At Apex, we treat every device with the utmost care.",
     cta: "Browse Services",
-    href: "/services",
+    href: "/",
     image: "/images/image4.webp",
 }
 
 // Contact Page Content:
 export const ContactHeroContent = {
-    heading: "Get In Touch With Our Tech Experts",
-    subtitle: "Have questions, need a repair quote, or want to schedule on-site IT support? Reach out to Pickens PC Repair LLC today—we are here to help.",
+    heading: "Get In Touch With Our Experts",
+    subtitle: "Have questions about a repair, looking to buy a PC, or need networking help? Reach out to Apex Computer Inc today.",
     btn1Text: "Call Us Now",
-    href1: "tel:+15028918961",
+    href1: "tel:+17702428877",
     btn2Text: "Submit Request",
     href2: "/contact",
     bgImage: "bg-[url('/images/image3.webp')]",
@@ -254,8 +254,8 @@ export const ContactHeroContent = {
 
 export const ContactNewsLetterContent = {
     label: "Newsletter",
-    heading: "Sign Up To My Newsletter",
-    subHeading: "Subscribe to the Pickens PC Repair newsletter for security alerts, quick PC maintenance tips, technology updates, and exclusive service discounts delivered straight to your inbox.",
+    heading: "Stay Updated with Apex",
+    subHeading: "Subscribe to our newsletter for tech tips, exclusive repair discounts, and updates on our new and used computer inventory.",
     cta: "Subscribe",
     href: "/contact",
     image: "/images/image3.webp",
@@ -268,26 +268,26 @@ export const ContactFaqContent = {
     questions: [
         {
             id: 1,
-            question: "What services do you offer for on-site support?",
+            question: "What types of game consoles do you repair?",
             answer:
-                "We come directly to your home or office for computer repair, network setup, troubleshooting, or hardware installation in Homewood, AL and surrounding areas.",
+                "We repair a wide variety of consoles including PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U.",
         },
         {
             id: 2,
-            question: "Do you repair both PCs and Macs?",
+            question: "Do you repair Apple computers?",
             answer:
-                "Yes! Pickens PC Repair LLC specializes in both PC repair & Mac repair services, ensuring your device gets expert care regardless of the platform.",
+                "Yes! We offer comprehensive repair services for all kinds of Apple computers and Mac laptops.",
         },
         {
             id: 3,
-            question: "How do you help keep computer repair costs down?",
+            question: "Do you sell computers as well as repair them?",
             answer:
-                "We recommend regular PC maintenance and tune-ups to prevent virus and spyware infections. If you already have a problem, we start with cost-effective diagnostic and repair solutions.",
+                "Absolutely. We sell new and used computers, notebooks, servers, and custom gaming PCs.",
         },
         {
             id: 4,
-            question: "Can you help with operating system replacement or selecting a new computer?",
-            answer: "Absolutely. If your operating system needs replacement or your machine is too old, we can install a clean OS or help you select and set up the best new machine for your needs.",
+            question: "Can I bring in old electronics for recycling?",
+            answer: "Yes, we offer recycle and disposal services to safely process your old computers and networking equipment.",
         },
     ],
     btnText: "Have More Questions?",
@@ -296,73 +296,73 @@ export const ContactFaqContent = {
 
 // Services Page Content:
 export const ServicesHeroContent = {
-    heading: "Professional Computer Repair & IT Services",
-    subtitle: "From hardware upgrades and operating system reinstalls to home networking and virus removal, we offer complete IT solutions for homes and businesses.",
+    heading: "Professional Repair & IT Services",
+    subtitle: "From console repairs and Mac support to networking and computer sales, we offer complete tech solutions.",
     btn1Text: "Book a Repair",
     href1: "/contact",
     btn2Text: "Call Us Now",
-    href2: "tel:+15028918961",
+    href2: "tel:+17702428877",
     bgImage: "bg-[url('/images/image3.webp')]",
     breadcrumb: "Services"
 }
 
 export const ServicesPageCardsContent = {
     label: "Our Services",
-    heading: "Fast, Reliable, & Local IT Solutions",
-    subtitle: "Whether you’re bringing your device to us, need a technician at your door, or want to secure your property with the latest surveillance—we’ve got you covered.",
+    heading: "Comprehensive Repair & IT Solutions",
+    subtitle: "From laptops and servers to gaming consoles, we provide professional repair, networking, and recycling services.",
     cards: [
         {
             id: "01",
-            title: "PC & Mac Repairs",
+            title: "Computer & Mac Repairs",
             description:
-                "Comprehensive diagnostic and repair services for laptops, desktops, and all-in-one systems. We handle screen replacements, battery issues, and hardware fixes.",
+                "Comprehensive diagnostic and repair services for laptops, desktops, and Apple computers. We handle hardware fixes and software troubleshooting.",
             image: "/images/rn-infotech-57.webp",
             btnText: "Computer Repairs",
             href: "/contact",
         },
         {
             id: "02",
-            title: "On-Site & In-Home Support",
+            title: "Gaming Console Repair",
             description:
-                "Our technicians will come directly to your home or office for troubleshooting, computer setup, networking, or device installations at affordable rates.",
+                "Expert repairs for PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U. Get back to gaming quickly with our reliable console fixes.",
             image: "/images/rn-infotech-30.webp",
-            btnText: "On-Site Support",
+            btnText: "Console Repair",
             href: "/contact",
         },
         {
             id: "03",
-            title: "Virus & Malware Removal",
+            title: "New & Used Computers",
             description:
-                "Thorough spyware, ransomware, and virus scanning and removal. We help clean infected operating systems and install preventative protection tools.",
+                "Looking to buy? We offer a great selection of high-quality new and used computers, notebooks, and gaming PCs to fit your needs.",
             image: "/images/image10.webp",
-            btnText: "Virus Removal",
+            btnText: "Shop Computers",
             href: "/contact",
         },
         {
             id: "04",
-            title: "Data Backup & Recovery",
+            title: "Networking Services",
             description:
-                "Safe retrieval of your documents, photos, and crucial business data from failed hard drives. We also configure secure local and cloud backup systems.",
+                "Reliable setup and troubleshooting for home and business networks, including routers, servers, and secure connections.",
             image: "/images/image7.webp",
-            btnText: "Data Services",
+            btnText: "Networking",
             href: "/contact",
         },
         {
             id: "05",
-            title: "Computer Networking",
+            title: "Server & IT Support",
             description:
-                "Reliable setup and troubleshooting of home office or business Wi-Fi, routers, modems, switches, and secure remote VPN connections.",
+                "Professional server maintenance and IT support tailored for small businesses and home offices in the Norcross area.",
             image: "/images/image6.webp",
-            btnText: "Networking Support",
+            btnText: "IT Support",
             href: "/contact",
         },
         {
             id: "06",
-            title: "System Tune-Ups & Upgrades",
+            title: "Recycle & Disposal",
             description:
-                "Speed up slow machines with SSD installations, RAM additions, OS reinstalls, and regular dust and thermal compound maintenance.",
+                "Eco-friendly recycling and disposal services for your old electronics, computers, and obsolete networking equipment.",
             image: "/images/rn-infotech-38.webp",
-            btnText: "Tune-Ups & Upgrades",
+            btnText: "Recycling Services",
             href: "/contact",
         },
     ],
@@ -373,11 +373,11 @@ export const ServicesPageCardsContent = {
 // FAQs Page Content:
 export const FaqsHeroContent = {
     heading: "Got Questions? We Have Answers",
-    subtitle: "Find quick answers to common questions about our repair services, turnaround times, pricing, on-site support, and more.",
+    subtitle: "Find quick answers about our console repairs, computer sales, networking support, and recycling services.",
     btn1Text: "Contact Us",
     href1: "/contact",
     btn2Text: "Call Us Now",
-    href2: "tel:+15028918961",
+    href2: "tel:+17702428877",
     bgImage: "bg-[url('/images/image3.webp')]",
     breadcrumb: "FAQs"
 }
@@ -389,26 +389,26 @@ export const FaqsPageContent = {
     questions: [
         {
             id: 1,
-            question: "What services do you offer for on-site support?",
+            question: "What types of game consoles do you repair?",
             answer:
-                "We provide comprehensive on-site and in-home services, including computer troubleshooting, Wi-Fi and network setup, hardware configuration, device installation, and smart home support throughout Homewood, AL, and neighboring areas.",
+                "We repair a wide variety of consoles including PS3, PS4, Xbox 360, Xbox One, Wii, and Wii U.",
         },
         {
             id: 2,
-            question: "Do you repair both PCs and Macs?",
+            question: "Do you repair Apple computers?",
             answer:
-                "Yes! Our technicians are highly experienced with both Windows PCs and macOS devices. We handle screen replacements, hardware diagnostics, battery swaps, OS reinstalls, and more for desktops, laptops, and all-in-ones.",
+                "Yes! We offer comprehensive repair services for all kinds of Apple computers and Mac laptops.",
         },
         {
             id: 3,
-            question: "How do you help keep computer repair costs down?",
+            question: "Do you sell computers as well as repair them?",
             answer:
-                "We recommend regular PC maintenance, security updates, and performance tune-ups to prevent major failures. If your device already has an issue, we provide a cost-effective diagnostic and repair estimate upfront.",
+                "Absolutely. We sell new and used computers, notebooks, servers, and custom gaming PCs.",
         },
         {
             id: 4,
-            question: "Can you help with operating system replacement or selecting a new computer?",
-            answer: "Absolutely. If your operating system needs replacement or your machine is too old, we can install a clean OS or help you select and set up the best new machine for your needs.",
+            question: "Can I bring in old electronics for recycling?",
+            answer: "Yes, we offer recycle and disposal services to safely process your old computers and networking equipment.",
         },
     ],
     btnText: "Have More Questions?",
@@ -418,41 +418,40 @@ export const FaqsPageContent = {
 // Gallery Page Content:
 export const GalleryHeroContent = {
     heading: "Our Work Gallery",
-    subtitle: "Take a look at our professional repair facility, clean workspace, and recent hardware repairs and network installation projects.",
+    subtitle: "Take a look at our workspace, recent console fixes, computer setups, and networking projects.",
     btn1Text: "View Services",
-    href1: "/services",
+    href1: "/",
     btn2Text: "Book a Repair",
     href2: "/contact",
     bgImage: "bg-[url('/images/image3.webp')]",
     breadcrumb: "Gallery"
 }
 
-
 export const GalleryPageImage = {
     galleryImages: [
         { id: 1, src: "/images/rn-infotech-57.webp", alt: "Computer Hardware Diagnostic" },
-        { id: 2, src: "/images/rn-infotech-30.webp", alt: "On-Site Computer Maintenance" },
-        { id: 3, src: "/images/rn-infotech-38.webp", alt: "Laptop Screen and Component Repair" },
-        { id: 4, src: "/images/rn-infotech-02.webp", alt: "Desktop Custom Build and Wiring" },
-        { id: 5, src: "/images/rn-infotech-12.webp", alt: "IT Support Technician Testing Hardware" },
-        { id: 6, src: "/images/rn-infotech-31.webp", alt: "Motherboard Diagnostic and Repair" },
-        { id: 7, src: "/images/rn-infotech-32.webp", alt: "MacBook Hardware Inspection" },
-        { id: 8, src: "/images/rn-infotech-33.webp", alt: "Internal Laptop Cleaning and Tune-Up" },
-        { id: 9, src: "/images/rn-infotech-34.webp", alt: "Hard Drive Data Recovery Process" },
-        { id: 10, src: "/images/rn-infotech-35.webp", alt: "Soldering Diagnostic Check" },
-        { id: 11, src: "/images/rn-infotech-36.webp", alt: "Network Router Configuration" },
-        { id: 12, src: "/images/rn-infotech-37.webp", alt: "Server and Switch Cable Management" },
-        { id: 13, src: "/images/rn-infotech-39.webp", alt: "Thermal Paste Replacement" },
-        { id: 14, src: "/images/rn-infotech-52.webp", alt: "Custom Gaming PC Diagnostic" },
-        { id: 15, src: "/images/rn-infotech-53.webp", alt: "Solid State Drive (SSD) Upgrade" },
-        { id: 16, src: "/images/rn-infotech-54.webp", alt: "Ram Upgrade Installation" },
+        { id: 2, src: "/images/rn-infotech-30.webp", alt: "Console Maintenance" },
+        { id: 3, src: "/images/rn-infotech-38.webp", alt: "MacBook Repair" },
+        { id: 4, src: "/images/rn-infotech-02.webp", alt: "Gaming PC Custom Build" },
+        { id: 5, src: "/images/rn-infotech-12.webp", alt: "Hardware Testing" },
+        { id: 6, src: "/images/rn-infotech-31.webp", alt: "Motherboard Repair" },
+        { id: 7, src: "/images/rn-infotech-32.webp", alt: "Apple Computer Inspection" },
+        { id: 8, src: "/images/rn-infotech-33.webp", alt: "Internal Cleaning and Tune-Up" },
+        { id: 9, src: "/images/rn-infotech-34.webp", alt: "Server Maintenance" },
+        { id: 10, src: "/images/rn-infotech-35.webp", alt: "Soldering and Micro-Repair" },
+        { id: 11, src: "/images/rn-infotech-36.webp", alt: "Network Setup" },
+        { id: 12, src: "/images/rn-infotech-37.webp", alt: "Switch and Cable Management" },
+        { id: 13, src: "/images/rn-infotech-39.webp", alt: "Electronic Recycling Processing" },
+        { id: 14, src: "/images/rn-infotech-52.webp", alt: "Xbox Repair" },
+        { id: 15, src: "/images/rn-infotech-53.webp", alt: "PlayStation Diagnostic" },
+        { id: 16, src: "/images/rn-infotech-54.webp", alt: "Used Computer Refurbishing" },
     ],
 }
 
 // Service Area Page Content:
 export const ServiceAreaheroContent = {
     heading: "Service Areas We proudly serve in",
-    subtitle: "From Homewood to Hoover and across Birmingham, we bring fast, reliable computer repair services right to your doorstep — home or office.",
+    subtitle: "Located in Norcross, GA, we bring fast, reliable repair services and IT support to our local community and surrounding areas.",
     btn1Text: "Call Us",
     href1: "/contact",
     btn2Text: "Contact Us",

@@ -6,7 +6,7 @@ const NavLinks = ({ activeMega, setActiveMega }) => {
   const links = [
     { title: "Home", href: "/" },
     { title: "About Us", href: "/about", mega: "about" },
-    { title: "Services", href: "/services", mega: "services" },
+    { title: "Services", href: "/", mega: "services" },
     { title: "Gallery", href: "/gallery" },
     { title: "Contact Us", href: "/contact" },
   ];

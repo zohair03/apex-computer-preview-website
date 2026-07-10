@@ -69,17 +69,17 @@ const quickLinks1 = [
 
 const quickLinks2 = [
   { title: "Contact Us", href: "/contact" },
-  { title: "Services", href: "/services" },
+  { title: "Services", href: "/" },
   { title: "Gallery", href: "/gallery" },
 ];
 
 const servicesLinks1 = [
-  { title: "PC & Mac Repairs", href: "/services/pc-and-mac-repairs" },
-  { title: "On-Site & In-Home Support", href: "/services/onsite-and-home-support" },
-  { title: "Virus & Malware Removal", href: "/services/virus-and-malware-removal" },
-  { title: "Data Backup & Recovery", href: "/services/data-backup-and-recovery" },
-  { title: "Computer Networking", href: "/services/computer-networking" },
-  { title: "System Tune-Ups & Upgrades", href: "/services/system-tune-ups-and-upgrades" },
+  { title: "Computer & Mac Repairs", href: "/" },
+  { title: "Gaming Console Repair", href: "/" },
+  { title: "New & Used Computers", href: "/" },
+  { title: "Networking Services", href: "/" },
+  { title: "Server & IT Support", href: "/" },
+  { title: "Recycle & Disposal", href: "/" },
 ];
 
 const FooterLinks = () => {
@@ -109,7 +109,7 @@ const FooterLinks = () => {
                 />
               ) : (
                 <p className="text-3xl font-bold leading-none text-center tracking-widest text-white uppercase">
-                  Pickens<br />PC Repair
+                  Apex!
                 </p>
               )}
             </Link>
@@ -222,10 +222,10 @@ const FooterLinks = () => {
           licensors
         </p>
         <div className="flex flex-wrap justify-center gap-2 sm:gap-4 text-xs sm:text-sm text-white/70">
-          <Link href="/privacy-policy" className="hover:text-footer-form-text-hover transition-colors">
+          <Link href="/" className="hover:text-footer-form-text-hover transition-colors">
             Privacy Policy
           </Link>
-          <Link href="/privacy-policy" className="hover:text-footer-form-text-hover transition-colors">
+          <Link href="/" className="hover:text-footer-form-text-hover transition-colors">
             Do Not Sell/Share My Personal Information
           </Link>
         </div>
